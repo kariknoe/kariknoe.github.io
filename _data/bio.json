@@ -69,6 +69,15 @@
         "BitBucket",
       ]
     }
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Unity3d",
+        "Maya",
+        "Adobe Creative Suite",
+      ]
+    }
   ],
   "education": [
     {
