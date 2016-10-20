@@ -85,14 +85,15 @@
   "work": [
     {
       "company": "Gregg M Sinclair Library",
-      "position": "Media Tech IV",
+      "position": "Media Tech",
       "website": "",
-      "startDate": "2013-04-01",
+      "startDate": "2014-04-01",
       "endDate": "Present",
       "summary": "Senior Student Media Tech Position at Sinclair Library",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Media Tech II - April 2014 - April 2015",
+        "Media Tech III - April 2015 - November 2015",
+        "Media Tech IV - November 2015 - present"
       ]
     },
     {
@@ -121,19 +122,6 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
