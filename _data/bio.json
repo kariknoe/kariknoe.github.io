@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kari Noe",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "karinoe@hawaii.edu",
+    "phone": "",
+    "website": "https://kariknoe.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kariknoe",
+        "url": "http://github.com/kariknoe"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "karinoe",
+        "url": "http://linkedin.com/in/karinoe"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Graphics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Animation",
       "keywords": [
       ]
     }
@@ -61,12 +59,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
+        "PHP",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "XQuery",
+        "C#",
+        "C++",
       ]
     },
     {
@@ -74,21 +72,22 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
+        "Fedora",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "BitBucket",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Double Major: Computer Science and Animation (expected Spring, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2013-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }
