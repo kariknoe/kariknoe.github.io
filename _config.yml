@@ -1,12 +1,8 @@
 # Site settings
 
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
-title: Molly Maluhia | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+title: Kari Noe | Professional Portfolio
+url: "https://karinoe.github.io"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
