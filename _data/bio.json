@@ -87,7 +87,7 @@
       "startDate": "2013-08-01",
       "endDate": "Present",
       "gpa": "3.7",
-      "courses": [ "Data Visualization": "2018"
+      "courses": [ 
       ]
     }
   ],
@@ -110,11 +110,11 @@
       "website": "http://guides.library.manoa.hawaii.edu/sinclairlibrary",
       "startDate": "2014-04",
       "endDate": "2017-03",
-      "summary": "Senior Student Media Tech Position at Sinclair Library",
+      "summary": "Developed and managed databases for various collection in the library. Organized and processed digital media files. Entered detailed data into databases and spreadsheets. Helped maintain data and statistics for monthly reports. Edited and encoded video using a Non Linear Editor. Embeded metadata. Streamed video. Performed special projects and other related duties as assigned.",
       "highlights": [
         "Media Tech II - April 2014 - April 2015",
         "Media Tech III - April 2015 - November 2015",
-        "Media Tech IV - November 2015 - present"
+        "Media Tech IV - November 2015 - March 2017"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "website": "http://dkist.nso.edu/",
       "startDate": "2016-06-12",
       "endDate": "2016-08-12",
-      "summary": "",
+      "summary": " Intern Project Abstract: Remotely visualizing high resolution, image-based, data sets acquired by solar telescopes is challenging due to their multi-dimensionality and immense volume. Once fully operational, the Daniel K. Inouye Solar Telescope (DKIST) is estimated to produce 10 terabytes of imaging data per day. The DKIST Data Center needs a standard tool to visualize and share their imaging data sets with interested researchers and the public. With a goal of being able to visualize and share 100% of all relevant data collected from the telescope with minimal image degradation from compression, we have created a preliminary design of a visualization tool to handle that volume. This prototype is powered by the IIPImage server compiled with the Kakadu SDK to allow for JPEG2000 support. The visualization tool itself is built upon IIPMooviewer, an HTML5-based JavaScript high resolution image streaming and zooming client. Additional features were added to IIPMooviewer to optimize it for DKIST such as allowing for the manipulation of the following parameters: wavelength, polarization, and time. By adopting the JPEG2000 standard, our prototype allows for efficient transfer rates between the server and a remote user, while providing an extensible framework for the DKIST visualization tool interface.",
       "highlights": [
      
       ]
