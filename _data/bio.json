@@ -88,6 +88,9 @@
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [ 
+        "Special Topics- Video Game Design, Spring 2015",
+        "Topics in Software- Virtual Reality, Fall 2016",
+        "Data Visualization, Spring 2016",                   
       ]
     }
   ],
@@ -99,7 +102,7 @@
       "website": "http://lava.manoa.hawaii.edu/",
       "startDate": "2016-11",
       "endDate": "Present",
-      "summary": "Assist in lab related research in Data Visualization and Virtual Reality.",
+      "summary": "Assist in lab related research in Data Visualization and Virtual Reality. Perform demos for visitors of the lab.",
       "highlights": [
         
       ]
