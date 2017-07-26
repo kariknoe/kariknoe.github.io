@@ -87,10 +87,11 @@
       "startDate": "2013-08-01",
       "endDate": "Present",
       "gpa": "3.7",
-      "courses": "Data Visualizaiton?\"
-      
+      "courses": [
+      ]
     }
   ],
+  
   "work": [
      {
       "company": "Laboratory of Advanced Visualization and Apllications (LAVA)",
