@@ -3,7 +3,7 @@
     "name": "Kari Noe",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "",
+    "email": "karinoe@hawaii.edu",
     "phone": "",
     "website": "https://kariknoe.github.io",
     "summary": "Currently Double Majoring in Computer Science and Animation at the University of Hawai'i at Mānoa. Expected graduation: Spring 2018.",
@@ -12,7 +12,7 @@
       "postalCode": "",
       "city": "Honolulu",
       "countryCode": "",
-      "region": "Hawaii"
+      "region": "Hawai'i"
     },
     "profiles": [
       {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Computer Graphics",
+      "name": "Virtual Reality",
       "keywords": [
       ]
     },
@@ -49,9 +49,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Javascript",
         "Java",
         "PHP",
-        "Javascript",
         "XQuery",
         "C#",
         "C++",
@@ -75,7 +75,7 @@
       "keywords": [
         "Unity3d",
         "Maya",
-        "Adobe Creative Suite",
+        "Adobe Creative Suite (Photoshop, Premiere, After Effects)",
       ]
     }
   ],
@@ -87,17 +87,28 @@
       "startDate": "2013-08-01",
       "endDate": "Present",
       "gpa": "3.7",
-      "courses": [
-      ]
+      "courses": "Data Visualizaiton?\"
+      
     }
   ],
   "work": [
+     {
+      "company": "Laboratory of Advanced Visualization and Apllications (LAVA)",
+      "position": "Undergraduate Research Assistant",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2016-11",
+      "endDate": "Present",
+      "summary": "Assist in lab related research in Data Visualization and Virtual Reality.",
+      "highlights": [
+        
+      ]
+    },
     {
       "company": "Gregg M Sinclair Library",
       "position": "Media Tech",
-      "website": "",
-      "startDate": "2014-04-01",
-      "endDate": "Present",
+      "website": "http://guides.library.manoa.hawaii.edu/sinclairlibrary",
+      "startDate": "2014-04",
+      "endDate": "2017-03",
       "summary": "Senior Student Media Tech Position at Sinclair Library",
       "highlights": [
         "Media Tech II - April 2014 - April 2015",
@@ -113,8 +124,7 @@
       "endDate": "2016-08-12",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+     
       ]
     }
   ],
